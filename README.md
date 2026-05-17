@@ -1,2 +1,2 @@
 # knowledge-bucket
-A repository of concepts, definitions, topics and proof
+A repository of Computer Science concepts, definitions, topics and proofs I've accumulated.
